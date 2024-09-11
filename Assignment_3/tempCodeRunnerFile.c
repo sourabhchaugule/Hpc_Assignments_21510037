@@ -1,2 +1,0 @@
-free(vector);
-    // free(result);
